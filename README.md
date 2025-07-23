@@ -24,7 +24,7 @@ This project analyzes gender-wise population statistics using CSV datasets (`fem
 - Description - This dataset includes total population figures for all countries from 1960 to 2024.
 ---
 
-📸 Visualization Preview
+## Visualization Preview
 
 ![Gender-wise Log-Scaled Population Distributions](gender_population_distribution.png)
 ![Total Log-Scaled Population Distributions](total_population_distribution.png)
