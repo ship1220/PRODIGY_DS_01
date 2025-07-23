@@ -27,7 +27,7 @@ This project analyzes gender-wise population statistics using CSV datasets (`fem
 📸 Visualization Preview
 
 ![Gender-wise Log-Scaled Population Distributions](gender_population_distribution.png)
-![Total Log-Scaled Population Distributions](Total_population_distribution.png)
+![Total Log-Scaled Population Distributions](total_population_distribution.png)
 
 ## Insights
 
